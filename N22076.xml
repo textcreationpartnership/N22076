@@ -118,8 +118,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:029104_0000_0FDF9CEA1E24A8D8"/>
-            <pb facs="tcp:029104_0001_0FDF6D358ABA7D90"/>
+            <pb facs="unknown:029104_0000_0FDF9CEA1E24A8D8"/>
+            <pb facs="unknown:029104_0001_0FDF6D358ABA7D90"/>
             <p>THE INFLEXIBLE CAPTIVE.</p>
             <p>A TRAGEDY.</p>
             <p>BY MISS HANNAH MOORE.</p>
@@ -141,7 +141,7 @@
             </p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:029104_0002_0FDF9C26FAA99400"/>
+            <pb facs="unknown:029104_0002_0FDF9C26FAA99400"/>
             <head>TO THE Hon. Mrs. BOSCAWEN.</head>
             <opener>
                <salute>MADAM,</salute>
@@ -157,14 +157,14 @@
             </closer>
          </div>
          <div type="argument">
-            <pb facs="tcp:029104_0003_0FDF9C2B0C0E0F40"/>
+            <pb facs="unknown:029104_0003_0FDF9C2B0C0E0F40"/>
             <head>THE ARGUMENT.</head>
             <p>
                <hi>AMONG the great names, which have done ho<g ref="char:EOLhyphen"/>nor to antiquity in general, and to the Roman Republic in particular, that of</hi> Marcus Attilius Re<g ref="char:EOLhyphen"/>gulus <hi>has, by the general conſent of all ages, been conſidered as one of the moſt reſpectable, ſince he not only ſacrificed his labours, his liberty, and his life for the good of his country, but by a greatneſs of ſoul, almoſt peculiar to himſelf, contrived to make his very misfortunes contribute to that glorious end.</hi>
             </p>
             <p>
                <hi>After the Romans had met with various ſucceſſes in the firſt Punic War, under the command of Regu<g ref="char:EOLhyphen"/>lus; victory at length declared for the oppoſite party, the Roman Army was totally overthrown, and Regu<g ref="char:EOLhyphen"/>lus himſelf taken priſoner, by</hi> Xantippus, <hi>a Lacedae<g ref="char:EOLhyphen"/>monian General in the ſervice of the Carthaginians: the victorious enemy exulting in ſo important a con<g ref="char:EOLhyphen"/>queſt, kept him many years in cloſe impriſonment, and loaded him with the moſt cruel Indignities. They thought it was now in their power to make their own terms with Rome, and determined to ſend Regulus thither, with their Ambaſſador, to negotiate a peace, or at leaſt, an exchange of captives, thinking he would gladly perſuade his countrymen to diſcontinue a war, which neceſſarily prolonged his captivity. They previouſly exacted from him an oath to return ſhould his embaſſy prove unſucceſsful; at the ſame time giving him to underſtand, that he muſt expect to ſuffer a cruel death if he ſailed in it; this they artfully in<g ref="char:EOLhyphen"/>timated
-<pb facs="tcp:029104_0004_0FDF9C2D5EBED1B0"/>
+<pb facs="unknown:029104_0004_0FDF9C2D5EBED1B0"/>
 as the ſtrongeſt motive for him to leave no means unattempted to accompliſh their purpoſe.</hi>
             </p>
             <p>
@@ -187,7 +187,7 @@ as the ſtrongeſt motive for him to leave no means unattempted to accompliſh t
             </p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:029104_0005_0FDF9C2F13BE88F0"/>
+            <pb facs="unknown:029104_0005_0FDF9C2F13BE88F0"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -208,7 +208,7 @@ as the ſtrongeſt motive for him to leave no means unattempted to accompliſh t
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:029104_0006_0FDF9C30C777D1C8"/>
+            <pb facs="unknown:029104_0006_0FDF9C30C777D1C8"/>
             <head>THE Inflexible CAPTIVE.</head>
             <head>A TRAGEDY.</head>
             <div n="1" type="act">
@@ -246,7 +246,7 @@ as the ſtrongeſt motive for him to leave no means unattempted to accompliſh t
                   </lg>
                </sp>
                <sp>
-                  <pb n="2" facs="tcp:029104_0007_0FDF9C35D8075E00"/>
+                  <pb n="2" facs="unknown:029104_0007_0FDF9C35D8075E00"/>
                   <speaker>LICINIUS.</speaker>
                   <lg>
                      <l>Let not her ſorrows make my Fair unjuſt.</l>
@@ -305,7 +305,7 @@ as the ſtrongeſt motive for him to leave no means unattempted to accompliſh t
                      <l>Might <hi>I</hi> adviſe you, try a <hi>gentier</hi> method;</l>
                      <l>I know that every moment Rome expects</l>
                      <l>
-                        <pb facs="tcp:029104_0008_0FDF9C37D53638B8"/>
+                        <pb facs="unknown:029104_0008_0FDF9C37D53638B8"/>
 Th' Ambaſſador of Carthage, and I've heard</l>
                      <l>The Conſcript Fathers are already met</l>
                      <l>To give him audience in Bellona's temple.</l>
@@ -389,7 +389,7 @@ Th' Ambaſſador of Carthage, and I've heard</l>
                      <l>O ſweet<g ref="char:punc">▪</g> yet powerful influence of virtue</l>
                      <l>That charms tho' cruel, tho' unkind ſubdues.</l>
                      <l>
-                        <pb n="4" facs="tcp:029104_0009_0FDF9C3AC1AD13C0"/>
+                        <pb n="4" facs="unknown:029104_0009_0FDF9C3AC1AD13C0"/>
 And what was love exalts to admiration!</l>
                      <l>Yes, 'tis the privilege of ſouls, like thine,</l>
                      <l>To conquer moſt when leaſt they aim at conqueſt.</l>
@@ -451,7 +451,7 @@ And what was love exalts to admiration!</l>
                      <l>Juſt, uncorrupt, invariably good?</l>
                      <l>Perhaps his <hi>poverty</hi> has been his fault,</l>
                      <l>
-                        <pb n="5" facs="tcp:029104_0010_0FDF9C3C70348BB0"/>
+                        <pb n="5" facs="unknown:029104_0010_0FDF9C3C70348BB0"/>
                         <hi>Poor</hi> in the higheſt dignities of <hi>Rome;</hi>
                      </l>
                      <l>
@@ -517,7 +517,7 @@ And what was love exalts to admiration!</l>
                   <lg>
                      <l>Manlius you miſtake,</l>
                      <l>
-                        <pb n="6" facs="tcp:029104_0011_0FDF9C40976C7D90"/>
+                        <pb n="6" facs="unknown:029104_0011_0FDF9C40976C7D90"/>
 Alas! it is not Carthage, which is barbarous;</l>
                      <l>Tis Rome, ungrateful Rome is the Barbarian;</l>
                      <l>Carthage but puniſhes a foe proſeſs'd,</l>
@@ -596,7 +596,7 @@ Alas! it is not Carthage, which is barbarous;</l>
                      <l>
                         <hi>My</hi> rigour they may render vain, for know,</l>
                      <l>
-                        <pb n="7" facs="tcp:029104_0012_0FDF9C4358534F68"/>
+                        <pb n="7" facs="unknown:029104_0012_0FDF9C4358534F68"/>
 I am Rome'<hi>s Conſul,</hi> not her <hi>King,</hi> Attilia.</l>
                   </lg>
                   <stage>
@@ -699,7 +699,7 @@ I am Rome'<hi>s Conſul,</hi> not her <hi>King,</hi> Attilia.</l>
                   <lg>
                      <l>My ſiſter, I'm tranſported! Oh Attilia,</l>
                      <l>
-                        <pb n="8" facs="tcp:029104_0013_0FDF9C4512FA46C0"/>
+                        <pb n="8" facs="unknown:029104_0013_0FDF9C4512FA46C0"/>
 He's here, our father—Regulus is come!</l>
                   </lg>
                </sp>
@@ -763,7 +763,7 @@ He's here, our father—Regulus is come!</l>
                      <l>Then aſk'd, if yet the ſenate was aſſembled,</l>
                      <l>And <hi>where;</hi> which having heard, without indulging</l>
                      <l>
-                        <pb n="9" facs="tcp:029104_0014_0FDF9C4749A74870"/>
+                        <pb n="9" facs="unknown:029104_0014_0FDF9C4749A74870"/>
 The fond effuſions of his ſoul, or mine,</l>
                      <l>He ſuddenly retir'd. I flew with ſpeed</l>
                      <l>To find the Conſul, but as yet, ſucceſs</l>
@@ -834,7 +834,7 @@ The fond effuſions of his ſoul, or mine,</l>
                   <stage>Exit Attilia.</stage>
                </sp>
                <sp>
-                  <pb n="10" facs="tcp:029104_0015_0FDF9C4BDD7916F8"/>
+                  <pb n="10" facs="unknown:029104_0015_0FDF9C4BDD7916F8"/>
                   <speaker>PUBLIUS.</speaker>
                   <lg>
                      <l>Barce, adieu!</l>
@@ -908,7 +908,7 @@ The fond effuſions of his ſoul, or mine,</l>
                   <stage>Exit Publius.</stage>
                </sp>
                <sp>
-                  <pb n="11" facs="tcp:029104_0016_0FDF9C4E178BB5C0"/>
+                  <pb n="11" facs="unknown:029104_0016_0FDF9C4E178BB5C0"/>
                   <speaker>BARCE,</speaker>
                   <stage>alone.</stage>
                   <lg>
@@ -935,7 +935,7 @@ The fond effuſions of his ſoul, or mine,</l>
                <trailer>END <hi>of the</hi> FIRST ACT.</trailer>
             </div>
             <div n="2" type="act">
-               <pb n="12" facs="tcp:029104_0017_0FDF9C4FCC61A998"/>
+               <pb n="12" facs="unknown:029104_0017_0FDF9C4FCC61A998"/>
                <head>ACT II.</head>
                <stage>Scene the inſide of the Temple of Bellona, Seats for the Senators and Ambaſſadors, Lictors guarding the Entrance.</stage>
                <stage>MANLIUS, PUBLIUS, <hi>and</hi> SENATORS.</stage>
@@ -989,7 +989,7 @@ The fond effuſions of his ſoul, or mine,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="13" facs="tcp:029104_0018_0FDF9C5200EC5BD0"/>
+                  <pb n="13" facs="unknown:029104_0018_0FDF9C5200EC5BD0"/>
                   <speaker>HAMILCAR.</speaker>
                   <stage>To the Conſul.</stage>
                   <lg>
@@ -1083,7 +1083,7 @@ The fond effuſions of his ſoul, or mine,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="14" facs="tcp:029104_0019_0FDF9C577A404AE0"/>
+                  <pb n="14" facs="unknown:029104_0019_0FDF9C577A404AE0"/>
                   <speaker>REGULUS.</speaker>
                   <lg>
                      <l>Alas! O Rome, how are thy manners chang'd!</l>
@@ -1169,7 +1169,7 @@ The fond effuſions of his ſoul, or mine,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="15" facs="tcp:029104_0020_0FDF9C5932050DC0"/>
+                  <pb n="15" facs="unknown:029104_0020_0FDF9C5932050DC0"/>
                   <speaker>HAMILCAR.</speaker>
                   <lg>
                      <l>What doſt thou mean?</l>
@@ -1249,7 +1249,7 @@ The fond effuſions of his ſoul, or mine,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="16" facs="tcp:029104_0021_0FDF9C5AEA005990"/>
+                  <pb n="16" facs="unknown:029104_0021_0FDF9C5AEA005990"/>
                   <speaker>MANLIUS.</speaker>
                   <lg>
                      <l>However hurtful the <hi>exchange may be,</hi>
@@ -1319,7 +1319,7 @@ The fond effuſions of his ſoul, or mine,</l>
                            <desc>••</desc>
                         </gap>ch the cruelty of ſuch ſuſpicions?</l>
                      <l>
-                        <pb n="17" facs="tcp:029104_0022_0FDF9C5D3033AD08"/>
+                        <pb n="17" facs="unknown:029104_0022_0FDF9C5D3033AD08"/>
 Revenge me, Fathers! and I'm ſtill a Roman.</l>
                      <l>Arm, arm yourſelves, prepare your Citizens,</l>
                      <l>Ruſh eager onwards to the gates of Carthage,</l>
@@ -1384,7 +1384,7 @@ Revenge me, Fathers! and I'm ſtill a Roman.</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="18" facs="tcp:029104_0023_0FDF9C6157CA9B50"/>
+                  <pb n="18" facs="unknown:029104_0023_0FDF9C6157CA9B50"/>
                   <speaker>REGULUS.</speaker>
                   <lg>
                      <l>I've promis'd to return, and I will do it.</l>
@@ -1478,7 +1478,7 @@ Revenge me, Fathers! and I'm ſtill a Roman.</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="19" facs="tcp:029104_0024_0FDF9C641D2A3790"/>
+                  <pb n="19" facs="unknown:029104_0024_0FDF9C641D2A3790"/>
                   <speaker>ATTILIA.</speaker>
                   <lg>
                      <l>How is my father chang'd from what I've known him!</l>
@@ -1560,7 +1560,7 @@ Revenge me, Fathers! and I'm ſtill a Roman.</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="20" facs="tcp:029104_0025_0FDF9C65CFFFDEF8"/>
+                  <pb n="20" facs="unknown:029104_0025_0FDF9C65CFFFDEF8"/>
                   <speaker>BARCE.</speaker>
                   <lg>
                      <l>Indeed I fear it much,</l>
@@ -1595,7 +1595,7 @@ Revenge me, Fathers! and I'm ſtill a Roman.</l>
                <trailer>END <hi>of the</hi> SECOND ACT.</trailer>
             </div>
             <div n="3" type="act">
-               <pb n="21" facs="tcp:029104_0026_0FDF9C6804494270"/>
+               <pb n="21" facs="unknown:029104_0026_0FDF9C6804494270"/>
                <head>ACT III.</head>
                <stage>Scene a Portico of a Palace without the Gates of Rome, the abode of the Carthaginian Ambaſſador.</stage>
                <stage>
@@ -1655,7 +1655,7 @@ Revenge me, Fathers! and I'm ſtill a Roman.</l>
                      <l>I ſhun the <hi>evil,</hi> and I ſeek the <hi>good,</hi>
                      </l>
                      <l>
-                        <pb n="22" facs="tcp:029104_0027_0FDF9C6F8046B590"/>
+                        <pb n="22" facs="unknown:029104_0027_0FDF9C6F8046B590"/>
 But <hi>that</hi> I find in <hi>guilt,</hi> and <hi>this</hi> in <hi>virtue.</hi>
                      </l>
                      <l>Were it not guilt, guilt of the blackeſt dye,</l>
@@ -1709,7 +1709,7 @@ But <hi>that</hi> I find in <hi>guilt,</hi> and <hi>this</hi> in <hi>virtue.</hi
                      <l>And with their ſhaggy tenants ſhare the ſpoil;</l>
                      <l>Or if the ſavage hunters miſs their prey,</l>
                      <l>
-                        <pb n="23" facs="tcp:029104_0028_0FDF9C71B56E6FB0"/>
+                        <pb n="23" facs="unknown:029104_0028_0FDF9C71B56E6FB0"/>
 From ſcatter'd acorns pick a ſcan<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>y meal—</l>
@@ -1791,7 +1791,7 @@ From ſcatter'd acorns pick a ſcan<gap reason="illegible" resp="#AELD" extent="
                   <lg>
                      <l>Ah! could'ſt thou look into my inmoſt ſoul,</l>
                      <l>
-                        <pb n="24" facs="tcp:029104_0029_0FDF9C7371FF60A0"/>
+                        <pb n="24" facs="unknown:029104_0029_0FDF9C7371FF60A0"/>
 And ſee how warm it burns with love, and duty,</l>
                      <l>Thou would'ſt abate the rigor of thy words.</l>
                   </lg>
@@ -1873,7 +1873,7 @@ And ſee how warm it burns with love, and duty,</l>
                      </l>
                      <l>Thy fortitude and courage have ſubdued me.</l>
                      <l>
-                        <pb n="25" facs="tcp:029104_0030_0FDF9C7529E6D268"/>
+                        <pb n="25" facs="unknown:029104_0030_0FDF9C7529E6D268"/>
 I <hi>was</hi> thy <hi>rival</hi>—I am <hi>now</hi> thy <hi>friend,</hi>
                      </l>
                      <l>Allow me that diſtinction, dearer far</l>
@@ -1946,7 +1946,7 @@ I <hi>was</hi> thy <hi>rival</hi>—I am <hi>now</hi> thy <hi>friend,</hi>
                      <l>Ah! if thy <hi>love</hi> be ſo deſtructive to me,</l>
                      <l>Tell me, alas! what wou'd thy <hi>hatred</hi> be?</l>
                      <l>
-                        <pb n="26" facs="tcp:029104_0031_0FDF9C7C24A96FE0"/>
+                        <pb n="26" facs="unknown:029104_0031_0FDF9C7C24A96FE0"/>
 Shall I then loſe the <hi>merit</hi> of my ſufferings,</l>
                      <l>Be thus <hi>defrauded</hi> of the benefit</l>
                      <l>I vainly hop'd from all my years of <hi>bondage?</hi>
@@ -2012,7 +2012,7 @@ Shall I then loſe the <hi>merit</hi> of my ſufferings,</l>
                      <l>It is but juſt, that what procures our country</l>
                      <l>Such real bleſſings, ſuch ſubſtantial good,</l>
                      <l>
-                        <pb n="27" facs="tcp:029104_0032_0FDF9C7E657EFFC0"/>
+                        <pb n="27" facs="unknown:029104_0032_0FDF9C7E657EFFC0"/>
 Shou<g ref="char:punc">▪</g>d coſt <hi>thee</hi> ſomething—I ſhall loſe but little.</l>
                      <l>Go then, my friend! but promiſe, ere thou goeſt</l>
                      <l>With all the Conſular Authority,</l>
@@ -2087,7 +2087,7 @@ Shou<g ref="char:punc">▪</g>d coſt <hi>thee</hi> ſomething—I ſhall loſe 
                   <lg>
                      <l>Now I begin to live: Propitious Heaven</l>
                      <l>
-                        <pb n="28" facs="tcp:029104_0033_0FDF9C801B6CDBD8"/>
+                        <pb n="28" facs="unknown:029104_0033_0FDF9C801B6CDBD8"/>
 Inclines to favour me.—Licinius here?</l>
                   </lg>
                </sp>
@@ -2169,7 +2169,7 @@ Inclines to favour me.—Licinius here?</l>
                      <l>Of ſtrong intreaty; then addreſs'd myſelf</l>
                      <l>To each ſucceſſively, from each obtain'd</l>
                      <l>
-                        <pb n="29" facs="tcp:029104_0034_0FDF9C82505CBC68"/>
+                        <pb n="29" facs="unknown:029104_0034_0FDF9C82505CBC68"/>
 A declaration, that their utmoſt power</l>
                      <l>Should be exerted for thy life, and freedom.</l>
                   </lg>
@@ -2246,7 +2246,7 @@ A declaration, that their utmoſt power</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="30" facs="tcp:029104_0035_0FDF9C8894FA54B0"/>
+                  <pb n="30" facs="unknown:029104_0035_0FDF9C8894FA54B0"/>
                   <speaker>REGULUS.</speaker>
                   <lg>
                      <l>His worſt of foes—the murd'rer of his glory.</l>
@@ -2344,7 +2344,7 @@ A declaration, that their utmoſt power</l>
                            <desc>•</desc>
                         </gap>oul-rending tenderneſs—</l>
                      <l>
-                        <pb n="31" facs="tcp:029104_0036_0FDF9C8A4B8E05E8"/>
+                        <pb n="31" facs="unknown:029104_0036_0FDF9C8A4B8E05E8"/>
 To know no peace by day, or reſt by night—</l>
                      <l>To bear a bleeding heart in this poor boſom,</l>
                      <l>Which aches and trembles but to <hi>think</hi> he ſuffers:</l>
@@ -2411,7 +2411,7 @@ To know no peace by day, or reſt by night—</l>
                      <l>Thy frowns and favours have alike no bounds:</l>
                      <l>Unjuſt, or prodigal in each extreme.</l>
                      <l>
-                        <pb n="32" facs="tcp:029104_0037_0FDF9C8BF92B1608"/>
+                        <pb n="32" facs="unknown:029104_0037_0FDF9C8BF92B1608"/>
 When thou wou'dſt humble human vanity,</l>
                      <l>By ſingling out a wretch to bear thy frowns,</l>
                      <l>Thou cruſh<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2451,7 +2451,7 @@ When thou wou'dſt humble human vanity,</l>
                <trailer>END <hi>of the</hi> THIRD ACT.</trailer>
             </div>
             <div n="4" type="act">
-               <pb n="33" facs="tcp:029104_0038_0FDF9C8E2D7C12D0"/>
+               <pb n="33" facs="unknown:029104_0038_0FDF9C8E2D7C12D0"/>
                <head>ACT IV.</head>
                <stage>Scene a Gallery in the Ambaſſador's Palace.</stage>
                <sp>
@@ -2490,7 +2490,7 @@ When thou wou'dſt humble human vanity,</l>
                      <l>From peril, fear; plucks out the ſting from death;</l>
                      <l>Changes ferocious into gentle manners;</l>
                      <l>
-                        <pb n="34" facs="tcp:029104_0039_0FDF9C92C922CA78"/>
+                        <pb n="34" facs="unknown:029104_0039_0FDF9C92C922CA78"/>
 And teaches <hi>men</hi> to imitate the Gods.</l>
                      <l>It ſhews—but ſee, alas! where Publius comes.</l>
                      <l>Ah! he advances with a downcaſt eye,</l>
@@ -2577,7 +2577,7 @@ And teaches <hi>men</hi> to imitate the Gods.</l>
                      <l>Doſt thou not know that <hi>life'</hi>s a ſlavery?</l>
                      <l>The body is the chain that binds the ſoul,</l>
                      <l>
-                        <pb n="35" facs="tcp:029104_0040_0FDF9C95046FF898"/>
+                        <pb n="35" facs="unknown:029104_0040_0FDF9C95046FF898"/>
 A yoke that every mortal muſt endure.</l>
                      <l>Would'ſt thou lament—lament the <hi>general</hi> fate,</l>
                      <l>The chain that <hi>nature</hi> gives, entail'd on all,</l>
@@ -2634,7 +2634,7 @@ A yoke that every mortal muſt endure.</l>
                      </l>
                      <l>—Ah Publius! I perceive thy courage fails—</l>
                      <l>
-                        <pb n="36" facs="tcp:029104_0041_0FDF9C96B2D18198"/>
+                        <pb n="36" facs="unknown:029104_0041_0FDF9C96B2D18198"/>
 I ſee the quivering <hi>lip,</hi> the ſtarting <hi>tear;</hi>—</l>
                      <l>
                         <hi>That</hi> lip, <hi>that</hi> tear calls down my mounting ſoul.</l>
@@ -2710,7 +2710,7 @@ I ſee the quivering <hi>lip,</hi> the ſtarting <hi>tear;</hi>—</l>
                   <l>Pity us Hamilcar!</l>
                </lg>
                <sp>
-                  <pb n="37" facs="tcp:029104_0042_0FDF9C98E86C01D8"/>
+                  <pb n="37" facs="unknown:029104_0042_0FDF9C98E86C01D8"/>
                   <speaker>ATTILIA.</speaker>
                   <lg>
                      <l>Oh help, Licinius! help the loſt Attilia!</l>
@@ -2797,7 +2797,7 @@ I ſee the quivering <hi>lip,</hi> the ſtarting <hi>tear;</hi>—</l>
                      <l>O Barce, Barce,</l>
                      <l>Who will adviſe, who comfort, who aſſiſt me?</l>
                      <l>
-                        <pb n="38" facs="tcp:029104_0043_0FDF9C9E201107B8"/>
+                        <pb n="38" facs="unknown:029104_0043_0FDF9C9E201107B8"/>
 Hamilcar, pity me.—Thou wilt not anſwer?</l>
                   </lg>
                </sp>
@@ -2867,7 +2867,7 @@ Hamilcar, pity me.—Thou wilt not anſwer?</l>
                      </l>
                      <l>Behold the cauſe of the well-acted virtue</l>
                      <l>
-                        <pb n="39" facs="tcp:029104_0044_0FDF9C9FD1E8BF50"/>
+                        <pb n="39" facs="unknown:029104_0044_0FDF9C9FD1E8BF50"/>
 Of this mock patriot—curſt diſſimulation!</l>
                   </lg>
                </sp>
@@ -2937,7 +2937,7 @@ Of this mock patriot—curſt diſſimulation!</l>
                         </gap>e;</l>
                      <l>But to remove from others a pretence</l>
                      <l>
-                        <pb n="40" facs="tcp:029104_0045_0FDF9CA186EC1C28"/>
+                        <pb n="40" facs="unknown:029104_0045_0FDF9CA186EC1C28"/>
 For branding Publius with the name of villain,</l>
                      <l>That they may ſee no ſentiment but honor</l>
                      <l>Informs this boſom—Barce thou art <hi>free.</hi>
@@ -3028,7 +3028,7 @@ For branding Publius with the name of villain,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="41" facs="tcp:029104_0046_0FDF9CA3C0167DD0"/>
+                  <pb n="41" facs="unknown:029104_0046_0FDF9CA3C0167DD0"/>
                   <speaker>LICINIUS.</speaker>
                   <lg>
                      <l>Since the diſeaſe ſo deſperate is become,</l>
@@ -3102,7 +3102,7 @@ For branding Publius with the name of villain,</l>
                      <l>Our <hi>virtue</hi> may be equal. They ſhall own</l>
                      <l>The path of honor's not unknown to Carthage,</l>
                      <l>
-                        <pb n="42" facs="tcp:029104_0047_0FDF9CA9772DAFC8"/>
+                        <pb n="42" facs="unknown:029104_0047_0FDF9CA9772DAFC8"/>
 Nor, as they arrogantly think, confin'd</l>
                      <l>To their proud Capitol.—Yes.—They ſhall learn</l>
                      <l>The Gods look down on <hi>other</hi> climes than <hi>their</hi>'s.</l>
@@ -3166,7 +3166,7 @@ Nor, as they arrogantly think, confin'd</l>
                      <l>Sees not a beam of hope; or, it ſhe ſees it,</l>
                      <l>'Tis not the bright, warm ſplendor of the ſun;</l>
                      <l>
-                        <pb n="43" facs="tcp:029104_0048_0FDF9CAB31640B00"/>
+                        <pb n="43" facs="unknown:029104_0048_0FDF9CAB31640B00"/>
 It is a ſickly and uncertain glimmer,</l>
                      <l>A feeble ray, which, like a languid glare</l>
                      <l>Of inſtantaneous light'ning, paſſes by,</l>
@@ -3229,7 +3229,7 @@ It is a ſickly and uncertain glimmer,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="44" facs="tcp:029104_0049_0FDF9CACE5ACC298"/>
+                  <pb n="44" facs="unknown:029104_0049_0FDF9CACE5ACC298"/>
                   <speaker>MANLIUS.</speaker>
                   <lg>
                      <l>Ah! Regulus,</l>
@@ -3288,7 +3288,7 @@ It is a ſickly and uncertain glimmer,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="45" facs="tcp:029104_0050_0FDF9CAF19219FD0"/>
+                  <pb n="45" facs="unknown:029104_0050_0FDF9CAF19219FD0"/>
                   <speaker>MANLIUS.</speaker>
                   <lg>
                      <l>Regulus,</l>
@@ -3361,7 +3361,7 @@ It is a ſickly and uncertain glimmer,</l>
                   <lg>
                      <l>No. Every man exclaims</l>
                      <l>
-                        <pb n="46" facs="tcp:029104_0051_0FDF9CB3B0635FF8"/>
+                        <pb n="46" facs="unknown:029104_0051_0FDF9CB3B0635FF8"/>
 That neither faith, nor honor, ſhou'd be kept</l>
                      <l>With Carthaginian perfidy and fraud.</l>
                   </lg>
@@ -3432,7 +3432,7 @@ That neither faith, nor honor, ſhou'd be kept</l>
                      <l>Thou ſhalt depart. Mean-while, I go to calm</l>
                      <l>This wild tumultuous uproar of the people.</l>
                      <l>
-                        <pb n="47" facs="tcp:029104_0052_0FDF9CB5631FC688"/>
+                        <pb n="47" facs="unknown:029104_0052_0FDF9CB5631FC688"/>
 The Conſu<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>ar authority ſhall ſtill them.</l>
@@ -3508,7 +3508,7 @@ The Conſu<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <stage>Exeunt ſeverally.</stage>
                </sp>
                <stage>
-                  <pb n="48" facs="tcp:029104_0053_0FDF9CB71DEDED20"/>
+                  <pb n="48" facs="unknown:029104_0053_0FDF9CB71DEDED20"/>
 MANLIUS, ATTILIA.</stage>
                <sp>
                   <speaker>ATTILIA,</speaker>
@@ -3577,7 +3577,7 @@ MANLIUS, ATTILIA.</stage>
                   <stage>Going.</stage>
                </sp>
                <sp>
-                  <pb n="49" facs="tcp:029104_0054_0FDF9CB952DCEB20"/>
+                  <pb n="49" facs="unknown:029104_0054_0FDF9CB952DCEB20"/>
                   <speaker>ATTILIA.</speaker>
                   <lg>
                      <l>How! not hear me?</l>
@@ -3627,7 +3627,7 @@ MANLIUS, ATTILIA.</stage>
                      <l>Some dear-bought intermiſſion, meant to make</l>
                      <l>The following pang more exquiſitely felt,</l>
                      <l>
-                        <pb n="50" facs="tcp:029104_0055_0FDF9CBDB45AF058"/>
+                        <pb n="50" facs="unknown:029104_0055_0FDF9CBDB45AF058"/>
 Th' inſulting executioners exclaim</l>
                      <l>—"Now, Roman! <hi>feel</hi> the vengeance thou haſt <hi>ſcorn'd!"</hi>
                      </l>
@@ -3686,7 +3686,7 @@ Th' inſulting executioners exclaim</l>
                      <l>For thou ſhalt be Attilia's inmate now,</l>
                      <l>And thou ſhalt grow and twine about her heart,</l>
                      <l>
-                        <pb n="51" facs="tcp:029104_0056_0FDF9CBFEFFA5D28"/>
+                        <pb n="51" facs="unknown:029104_0056_0FDF9CBFEFFA5D28"/>
 And ſhe ſhall be ſo much enamour'd of thee,</l>
                      <l>The pageant Pleaſure ne'er ſhall interpoſe</l>
                      <l>Her gaudy preſence to divide you more.</l>
@@ -3752,7 +3752,7 @@ And ſhe ſhall be ſo much enamour'd of thee,</l>
                      <l>Yes—I will liſten now with fond delight,</l>
                      <l>For death and ſorrow are my darling themes.</l>
                      <l>
-                        <pb n="52" facs="tcp:029104_0057_0FDF9CC1A4BA0DC8"/>
+                        <pb n="52" facs="unknown:029104_0057_0FDF9CC1A4BA0DC8"/>
 Well!—what haſt thou to ſay of death and ſorrow?</l>
                      <l>Believe me, thou wilt find me apt to liſten,</l>
                      <l>And, if my tongue be ſlow to anſwer thee,</l>
@@ -3808,7 +3808,7 @@ Well!—what haſt thou to ſay of death and ſorrow?</l>
                      <l>Fate never gave ſuch exquiſite delight,</l>
                      <l>As flattering hope hath imag'd to thy ſoul.</l>
                      <l>
-                        <pb n="53" facs="tcp:029104_0058_0FDF9CC3DA4C77B8"/>
+                        <pb n="53" facs="unknown:029104_0058_0FDF9CC3DA4C77B8"/>
 But how?—Explain this bounty of the Gods.</l>
                   </lg>
                </sp>
@@ -3858,7 +3858,7 @@ But how?—Explain this bounty of the Gods.</l>
                <trailer>END <hi>of the</hi> FOURTH ACT.</trailer>
             </div>
             <div n="5" type="act">
-               <pb n="54" facs="tcp:029104_0059_0FDF9CC9CD60A6F0"/>
+               <pb n="54" facs="unknown:029104_0059_0FDF9CC9CD60A6F0"/>
                <head>ACT V.</head>
                <stage>An Apartment in the Ambaſſador's Palace. Guards and other Attendants ſeen at a Diſtance.</stage>
                <sp>
@@ -3912,7 +3912,7 @@ But how?—Explain this bounty of the Gods.</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="55" facs="tcp:029104_0060_0FDF9CCB8457A608"/>
+                  <pb n="55" facs="unknown:029104_0060_0FDF9CCB8457A608"/>
                   <speaker>HAMILCAR.</speaker>
                   <lg>
                      <l>Lend me thy hearing firſt.</l>
@@ -4003,7 +4003,7 @@ But how?—Explain this bounty of the Gods.</l>
                      <l>Mean-while do thou eſcape, and lie conceal'd:</l>
                      <l>I will affect a rage I ſhall not feel,</l>
                      <l>
-                        <pb n="56" facs="tcp:029104_0061_0FDF9CCD36B74748"/>
+                        <pb n="56" facs="unknown:029104_0061_0FDF9CCD36B74748"/>
 Unmoor my ſhips, and ſail for Africa.</l>
                   </lg>
                </sp>
@@ -4113,7 +4113,7 @@ Unmoor my ſhips, and ſail for Africa.</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="57" facs="tcp:029104_0062_0FDF9CCEEBA01740"/>
+                  <pb n="57" facs="unknown:029104_0062_0FDF9CCEEBA01740"/>
                   <speaker>REGULUS.</speaker>
                   <lg>
                      <l>Who was it gave thee power</l>
@@ -4182,7 +4182,7 @@ Unmoor my ſhips, and ſail for Africa.</l>
                         </gap>grada's banks,</l>
                      <l>I fac'd and ſlew the formidable ſerpent,</l>
                      <l>
-                        <pb n="58" facs="tcp:029104_0063_0FDF9CD4C6B56840"/>
+                        <pb n="58" facs="unknown:029104_0063_0FDF9CD4C6B56840"/>
 That made your boldeſt Africans recoil,</l>
                      <l>And ſhrink with horror, tho' the monſter liv'd</l>
                      <l>A native inmate of their own parch'd defarts?</l>
@@ -4246,7 +4246,7 @@ That made your boldeſt Africans recoil,</l>
                   <lg>
                      <l>Yet!—ſhew thyſelf intrepid, and inſult me;</l>
                      <l>
-                        <pb n="59" facs="tcp:029104_0064_0FDF9CD6AA87EC98"/>
+                        <pb n="59" facs="unknown:029104_0064_0FDF9CD6AA87EC98"/>
 Call mine the blindneſs of barbarian friendſhip;</l>
                      <l>On Tiber's bank I hear thee, and am calm:</l>
                      <l>But know, thou ſcornful Roman! that too ſoon</l>
@@ -4312,7 +4312,7 @@ Call mine the blindneſs of barbarian friendſhip;</l>
                   </lg>
                </sp>
                <stage>
-                  <pb n="60" facs="tcp:029104_0065_0FDF9CD85D490260"/>
+                  <pb n="60" facs="unknown:029104_0065_0FDF9CD85D490260"/>
                   <hi>Enter</hi> PUBLIUS.</stage>
                <sp>
                   <speaker>PUBLIUS.</speaker>
@@ -4391,7 +4391,7 @@ Call mine the blindneſs of barbarian friendſhip;</l>
                      <l>I have been patient with thee; have indulg'd</l>
                      <l>Too much the fond affections of thy ſoul;</l>
                      <l>
-                        <pb n="61" facs="tcp:029104_0066_0FDF9CDA9484EA18"/>
+                        <pb n="61" facs="unknown:029104_0066_0FDF9CDA9484EA18"/>
 I've ſpar'd thy gentle ſex, and tender age.</l>
                      <l>It is enough. Thy grief would now offend</l>
                      <l>Thy father's honour. Do not let thy tears</l>
@@ -4464,7 +4464,7 @@ I've ſpar'd thy gentle ſex, and tender age.</l>
                      <l>Is this concern a mark that thou haſt loſt it?</l>
                      <l>I cannot, cannot ſpurn my weeping child.</l>
                      <l>
-                        <pb n="62" facs="tcp:029104_0067_0FDF9CDFC5D2C4B8"/>
+                        <pb n="62" facs="unknown:029104_0067_0FDF9CDFC5D2C4B8"/>
 Receive this proof of my paternal fondneſs.—</l>
                      <l>Thou lov'ſt Licinius—He too loves my daughter.</l>
                      <l>I give thee to his <hi>wiſhes:</hi> I do more,</l>
@@ -4532,7 +4532,7 @@ Receive this proof of my paternal fondneſs.—</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="63" facs="tcp:029104_0068_0FDF9CE180C6BEE8"/>
+                  <pb n="63" facs="unknown:029104_0068_0FDF9CE180C6BEE8"/>
                   <speaker>ATTILIA.</speaker>
                   <lg>
                      <l>Yes, it is true.</l>
@@ -4625,7 +4625,7 @@ Receive this proof of my paternal fondneſs.—</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="64" facs="tcp:029104_0069_0FDF9CE32FF45630"/>
+                  <pb n="64" facs="unknown:029104_0069_0FDF9CE32FF45630"/>
                   <speaker>BARCE.</speaker>
                   <lg>
                      <l>Why—what a ſtrange, fantaſtic land is this!</l>
@@ -4692,7 +4692,7 @@ Receive this proof of my paternal fondneſs.—</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="65" facs="tcp:029104_0070_0FDF9CE5689D6A48"/>
+                  <pb n="65" facs="unknown:029104_0070_0FDF9CE5689D6A48"/>
                   <speaker>LICINIUS.</speaker>
                   <lg>
                      <l>His honour?—</l>
@@ -4795,7 +4795,7 @@ Receive this proof of my paternal fondneſs.—</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="66" facs="tcp:029104_0071_0FDF6D33FA1FF1A0"/>
+                  <pb n="66" facs="unknown:029104_0071_0FDF6D33FA1FF1A0"/>
                   <speaker>MANLIUS.</speaker>
                   <lg>
                      <l>Romans, attend.—</l>
@@ -4854,7 +4854,7 @@ Receive this proof of my paternal fondneſs.—</l>
                      </l>
                      <l>That ſole ſurviving Good, which men may keep,</l>
                      <l>
-                        <pb n="67" facs="tcp:029104_0072_0FDF9CEC580BC6E8"/>
+                        <pb n="67" facs="unknown:029104_0072_0FDF9CEC580BC6E8"/>
 Tho' fate and warring worlds combine againſt them:</l>
                      <l>This ſtill is mine—and I'll preſerve it, Romans!</l>
                      <l>The wealth of Plutus ſhall not bribe it from me!</l>
@@ -4910,7 +4910,7 @@ Tho' fate and warring worlds combine againſt them:</l>
                      <l>Or thro' it's icy channels ſlowly creeps:</l>
                      <l>View the weak arm, and the pale furrow'd cheek,</l>
                      <l>
-                        <pb n="68" facs="tcp:029104_0073_0FDF9CEE8D178060"/>
+                        <pb n="68" facs="unknown:029104_0073_0FDF9CEE8D178060"/>
 The ſlacken'd ſinew, and the dim, ſunk eye,</l>
                      <l>And tell me <hi>then</hi> I muſt not think of dying!</l>
                      <l>How can I ſerve you elſe? My feeble limbs</l>
@@ -4969,7 +4969,7 @@ The ſlacken'd ſinew, and the dim, ſunk eye,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="69" facs="tcp:029104_0074_0FDF9CF039BB4818"/>
+                  <pb n="69" facs="unknown:029104_0074_0FDF9CF039BB4818"/>
                   <speaker>HAMILCAR.</speaker>
                   <lg>
                      <l>Why I begin to envy this old man!</l>
@@ -5021,7 +5021,7 @@ The ſlacken'd ſinew, and the dim, ſunk eye,</l>
                   </lg>
                </sp>
                <stage>
-                  <pb n="70" facs="tcp:029104_0075_0FDF9CF5F4983BC0"/>
+                  <pb n="70" facs="unknown:029104_0075_0FDF9CF5F4983BC0"/>
                   <hi>Attilia ſtruggles to get to Regulus, is prevented—ſhe ſaints—he fixes his eyes ſteadily on her for ſome time, and then departs to the ſhips.</hi>
                </stage>
                <sp>
@@ -5042,7 +5042,7 @@ The ſlacken'd ſinew, and the dim, ſunk eye,</l>
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:029104_0076_0FDF9CF7D2EE8AD8"/>
+            <pb facs="unknown:029104_0076_0FDF9CF7D2EE8AD8"/>
             <head>BOOKS PRINTED FOR AND SOLD BY <hi>JOHN SPARHAWK,</hi> AT THE LONDON BOOK-STORE, IN PHILADELPHIA.</head>
             <list>
                <item>JULIET GRENVILLE, Or the Hiſtory of the human Heart, 3 vols. in 2. By Mr. BROOKE, Author of the Fool of Quality. Price, <hi>Ten Shillings.</hi>
@@ -5052,7 +5052,7 @@ The ſlacken'd ſinew, and the dim, ſunk eye,</l>
                <item>Obſervations on the Act of Parliament, Commonly called the BOSTON PORT-BILL; with Thoughts on Civil Society, and Standing Armies. By JOSIAH QUINCY, junior. Price, <hi>One and Sixpence.</hi>
                </item>
                <item>
-                  <pb facs="tcp:029104_0077_0FDF9CFA07814B90"/>
+                  <pb facs="unknown:029104_0077_0FDF9CFA07814B90"/>
 Advice to the People in general, with regard to their Health; but particularly calculated for thoſe who are the moſt unlikely to be provided, in Time, with <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> beſt Aſſiſtance in acute Diſeaſes, or upon any ſudden inward or outward Accident. WITH A Table of the moſt cheap, yet effectual Remedies, and the plaineſt Directions for preparing them, readily. By Dr. TISSOT. Price, <hi>Ten Shillings.</hi>
